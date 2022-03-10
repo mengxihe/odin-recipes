@@ -1,0 +1,28 @@
+.text{
+    font-family: Helvetica, sans-serif;
+}
+
+img{
+    display:block;
+    margin: 0 auto;
+}
+
+.heading{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    font-size: 24px;
+}
+
+a:link{
+    text-decoration: none;
+    color: blue;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color:rgb(255, 225, 0);
+}
